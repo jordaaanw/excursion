@@ -1,13 +1,14 @@
 h1 {
   font-family: Verdana;
-  font-weight: normal;
   font-size: 50px;
-  font-color: white;
+  color: white;
   text-align: center;
 }
 h3 {
   font-size: 16px;
-  font-color: aquamarine;
+  color: aquamarine;
+  text-align: center;
 }
-background-color: Black;
-text-align: center;
+body {
+  background-color: black;
+}
